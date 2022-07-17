@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 My primary interest is in application development with a good experience in flutter development [dart, OOP, GetX ]. The industry is fast paced and constantly moving forward. It is one that requires constant education<br>throughout your entire career. This is exciting to me as there will always be new things to learn and new<br>challenges to overcome.
 
 
-## 🌐 Socials:
+## Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Ahmed Ibrahim-A) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Ahmed Ibrahim#8074) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a7med_ibrahim___) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ahmed_Aiaaba99) 
 
 # 💻 Tech Stack:
@@ -12,10 +12,10 @@ My primary interest is in application development with a good experience in flut
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZurraJanai&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZurraJanai&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
