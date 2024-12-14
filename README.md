@@ -1,5 +1,5 @@
 # About Me:
-My primary interest is in application development with a good experience in flutter development [dart, OOP, GetX ]. The industry is fast paced and constantly moving forward. It is one that requires constant education<br>throughout your entire career. This is exciting to me as there will always be new things to learn and new<br>challenges to overcome.
+My primary interest is in application development with a good experience in flutter development [dart, OOP]. The industry is fast paced and constantly moving forward. It is one that requires constant education<br>throughout your entire career. This is exciting to me as there will always be new things to learn and new<br>challenges to overcome.
 
 
 ## Socials:
